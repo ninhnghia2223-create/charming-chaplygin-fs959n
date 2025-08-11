@@ -1,2 +1,2 @@
-# charming-chaplygin-fs959n
+# chime-sdk-test-meeting
 Created with CodeSandbox
